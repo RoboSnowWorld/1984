@@ -16,10 +16,12 @@ commands_description = {
     '1984blacklist remove': '`Do not moderate text channel`',
     '1984blacklist clear': '`Clear list of moderated text channels`',
     '1984blacklist all': '`Show all moderated text channels`',
+    '1984modelist': '`Show list of modes`',
+    '1984mode': '`select mode`'
 }
 
 # permissions
-admin_commands = ['1984start', '1984stop', '1984channel', '1984blacklist']
+admin_commands = ['1984start', '1984stop', '1984channel', '1984blacklist', '1984mode', '1984modelist']
 user_commands = ['1984report', '1984help']
 
 
