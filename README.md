@@ -22,5 +22,9 @@ __when someone used bad word, bot sends a report in the specified channel and de
 
 `1984channel moderator` select channel for receiving reports
 
+`1984modelist` see moderation modes available
+
+`1984mode` you can select moderation mode
+
 # Contacts
 Telegram @xtichkdydykiddt
